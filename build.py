@@ -161,7 +161,7 @@ button.ghost{background:#e5e7eb;color:var(--ink)}
 </head>
 <body>
 <header>
-  <h1><svg class="logo" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0a7d3b"/><path d="M10 14h20l24 24-16 16-28-28z" fill="#fff" transform="rotate(0)"/><circle cx="18" cy="22" r="3.5" fill="#0a7d3b"/><text x="33" y="40" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" fill="#0a7d3b" text-anchor="middle" transform="rotate(45 33 36)">kr</text><path d="M40 10l8 9 5-5 5 12" fill="none" stroke="#fde047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M60 29l-1.5-9-6.5 4.5z" fill="#fde047"/></svg><span>Bargain Hunter · Price dashboard</span></h1>
+  <h1><svg class="logo" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0a7d3b"/><path d="M8 13h19l23 23-15 15L8 24z" fill="#fff" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><circle cx="15.5" cy="19.5" r="3.2" fill="#0a7d3b"/><text x="30" y="37" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#0a7d3b" text-anchor="middle" transform="rotate(45 30 33)">kr</text><path d="M34 9L40 17L45.00 15.00L50.90 23.58" fill="none" stroke="#fde047" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M56.00 31.00L47.35 27.24L55.59 21.58Z" fill="#fde047" stroke="#fde047" stroke-width="1" stroke-linejoin="round"/></svg><span>Bargain Hunter · Price dashboard</span></h1>
   <div class="meta">Last updated: <b id="lastUpdated">–</b> · page built __BUILT__ · <span class="small">✱ = unconfirmed price</span></div>
 </header>
 <main>
