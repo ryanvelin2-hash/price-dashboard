@@ -116,12 +116,16 @@ TEMPLATE = r"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bargain Hunter · Price dashboard</title>
+<link rel="icon" type="image/svg+xml" href="logo.svg">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="Bargain Hunter">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--ink:#1d2330;--mute:#6b7280;--line:#e5e7eb;--good:#0a7d3b;--goodbg:#e6f6ec;--warn:#b45309;--accent:#2563eb}
 *{box-sizing:border-box}
 body{margin:0;font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
 header{padding:18px 16px 8px;max-width:1000px;margin:auto}
-header h1{margin:0;font-size:22px}
+header h1{margin:0;font-size:22px;display:flex;align-items:center;gap:10px}
+.logo{width:40px;height:40px;flex:none}
 header .meta{color:var(--mute);font-size:13px}
 main{max-width:1000px;margin:auto;padding:0 12px 40px}
 section.group{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:14px 0}
@@ -157,7 +161,7 @@ button.ghost{background:#e5e7eb;color:var(--ink)}
 </head>
 <body>
 <header>
-  <h1>Bargain Hunter · Price dashboard</h1>
+  <h1><svg class="logo" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0a7d3b"/><path d="M10 14h20l24 24-16 16-28-28z" fill="#fff" transform="rotate(0)"/><circle cx="18" cy="22" r="3.5" fill="#0a7d3b"/><text x="33" y="40" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" fill="#0a7d3b" text-anchor="middle" transform="rotate(45 33 36)">kr</text><path d="M40 10l8 9 5-5 5 12" fill="none" stroke="#fde047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M60 29l-1.5-9-6.5 4.5z" fill="#fde047"/></svg><span>Bargain Hunter · Price dashboard</span></h1>
   <div class="meta">Last updated: <b id="lastUpdated">–</b> · page built __BUILT__ · <span class="small">✱ = unconfirmed price</span></div>
 </header>
 <main>
