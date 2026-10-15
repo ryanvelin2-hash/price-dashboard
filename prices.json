@@ -2218,6 +2218,45 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://prej.dk/produkt/starbucks-cappuccino-iskaffe-2-5-70574"
+    },
+    {
+      "date": "2026-10-15",
+      "itemId": "sb-cappuccino-220",
+      "store": "Meny",
+      "product": "Starbucks Cappuccino 1.6%",
+      "pack": "220 ml",
+      "price": 18.95,
+      "unitPrice": 18.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/starbucks-cappuccino-1-6-8989"
+    },
+    {
+      "date": "2026-10-15",
+      "itemId": "sb-cappuccino-220",
+      "store": "Spar",
+      "product": "Starbucks Cappuccino 1.6%",
+      "pack": "220 ml",
+      "price": 18.95,
+      "unitPrice": 18.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/starbucks-cappuccino-1-6-8989"
+    },
+    {
+      "date": "2026-10-15",
+      "itemId": "sb-skinny-latte-220",
+      "store": "Sartorvet",
+      "product": "Starbucks Skinny Latte",
+      "pack": "220 ml",
+      "price": 16.95,
+      "unitPrice": 16.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/starbucks-skinny-latte-iskaffe-0-9-15219"
     }
   ]
 }
