@@ -9637,6 +9637,84 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://prej.dk/produkt/karat-instant-51445"
+    },
+    {
+      "date": "2026-10-29",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "Hakket dansk oksekød med grønt",
+      "pack": "400 g",
+      "price": 29.0,
+      "unitPrice": 72.5,
+      "offer": true,
+      "validUntil": "2026-10-31",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/search/hakket%20oksek%C3%B8d"
+    },
+    {
+      "date": "2026-10-29",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "Hakket dansk oksekød 15-18% (from 31 Oct)",
+      "pack": "400 g",
+      "price": 35.0,
+      "unitPrice": 87.5,
+      "offer": true,
+      "validUntil": "2026-11-07",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/search/hakket%20oksek%C3%B8d"
+    },
+    {
+      "date": "2026-10-29",
+      "itemId": "ground-beef",
+      "store": "Netto Slangerup",
+      "product": "Netto hakket oksekød 4-7%",
+      "pack": "350 g",
+      "price": 39.95,
+      "unitPrice": 114.14,
+      "offer": true,
+      "validUntil": "2026-10-30",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/search/hakket%20oksek%C3%B8d"
+    },
+    {
+      "date": "2026-10-29",
+      "itemId": "ground-beef",
+      "store": "Netto Slangerup",
+      "product": "Netto hakket oksekød 8-12% (from 30 Oct)",
+      "pack": "400 g",
+      "price": 39.95,
+      "unitPrice": 99.88,
+      "offer": true,
+      "validUntil": "2026-11-06",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/search/hakket%20oksek%C3%B8d"
+    },
+    {
+      "date": "2026-10-29",
+      "itemId": "ground-beef",
+      "store": "SuperBrugsen Slangerup",
+      "product": "Coop hakket oksekød 8-12%",
+      "pack": "400 g",
+      "price": 39.0,
+      "unitPrice": 97.5,
+      "offer": true,
+      "validUntil": "2026-10-29",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/search/hakket%20oksek%C3%B8d"
+    },
+    {
+      "date": "2026-10-29",
+      "itemId": "ground-beef",
+      "store": "SuperBrugsen Slangerup",
+      "product": "Coop hakket oksekød 8-12%",
+      "pack": "1000 g",
+      "price": 99.0,
+      "unitPrice": 99.0,
+      "offer": true,
+      "validUntil": "2026-11-05",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/search/hakket%20oksek%C3%B8d"
     }
   ]
 }
