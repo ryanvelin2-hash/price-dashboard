@@ -13095,6 +13095,71 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://shop.rema1000.dk/varer/kod-fisk-fjerkrae/hakket-kod"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "sb-doubleshot-espresso-200",
+      "store": "Meny",
+      "product": "Starbucks Doubleshot Espresso",
+      "pack": "1 x 200 ml",
+      "price": 19.95,
+      "unitPrice": 19.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/starbucks-doubleshot-espresso-50776"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "sb-doubleshot-espresso-200",
+      "store": "Dagrofa Engros (B2B)",
+      "product": "Starbucks Doubleshot Espresso",
+      "pack": "1 x 200 ml",
+      "price": 13.95,
+      "unitPrice": 13.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": false,
+      "sourceUrl": "https://dagrofaengros.dk/products/265259"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "sb-caffe-latte-220",
+      "store": "Sartorvet",
+      "product": "Starbucks Caffe Latte",
+      "pack": "1 x 220 ml",
+      "price": 16.95,
+      "unitPrice": 16.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://www.sartorvet.com/starbucks-seattle-latte-220-ml.html"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "sb-caffe-latte-220",
+      "store": "Nemlig.com",
+      "product": "Starbucks Caffe Latte (5 for 89 kr)",
+      "pack": "1 x 220 ml",
+      "price": 20.29,
+      "unitPrice": 17.8,
+      "offer": true,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/starbucks-caffe-latte-iskaffe-79024"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "sb-seattle-latte-220",
+      "store": "Meny",
+      "product": "Starbucks Seattle Latte",
+      "pack": "1 x 220 ml",
+      "price": 15.95,
+      "unitPrice": 15.95,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/starbucks-seattle-latte-8969"
     }
   ]
 }
