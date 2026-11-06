@@ -13160,6 +13160,58 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://prej.dk/produkt/starbucks-seattle-latte-8969"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "karat-instant",
+      "store": "Netto",
+      "product": "Karat Instant Kaffe",
+      "pack": "90 g",
+      "price": 39.95,
+      "unitPrice": 443.89,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/karat-instant-kaffe-24252"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "karat-instant",
+      "store": "Spar",
+      "product": "Karat Instant Kaffe",
+      "pack": "90 g",
+      "price": 39.95,
+      "unitPrice": 443.89,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/karat-instant-kaffe-24252"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "karat-instant",
+      "store": "BilkaToGo",
+      "product": "Karat Instant Kaffe",
+      "pack": "90 g",
+      "price": 39.95,
+      "unitPrice": 443.89,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/karat-instant-kaffe-24252"
+    },
+    {
+      "date": "2026-11-06",
+      "itemId": "karat-instant",
+      "store": "Meny",
+      "product": "Karat Instant Kaffe",
+      "pack": "90 g",
+      "price": 41.95,
+      "unitPrice": 466.11,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/karat-instant-kaffe-24252"
     }
   ]
 }
