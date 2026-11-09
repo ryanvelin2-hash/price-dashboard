@@ -14512,6 +14512,45 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://goma.gg/varer/tripleshot-espresso-16583"
+    },
+    {
+      "date": "2026-11-09",
+      "itemId": "karat-instant",
+      "store": "Føtex / BilkaToGo",
+      "product": "Karat Instant",
+      "pack": "90 g",
+      "price": 32.0,
+      "unitPrice": 355.56,
+      "offer": false,
+      "validUntil": "",
+      "confirmed": true,
+      "sourceUrl": "https://prej.dk/produkt/karat-instant-kaffe-24252"
+    },
+    {
+      "date": "2026-11-09",
+      "itemId": "karat-instant",
+      "store": "Kvickly",
+      "product": "Karat Instant",
+      "pack": "90 g",
+      "price": 35.0,
+      "unitPrice": 388.89,
+      "offer": true,
+      "validUntil": "2026-11-12",
+      "confirmed": true,
+      "sourceUrl": "https://goma.gg/dagligvarer/kvickly-8711000363225/kvickly/karat-instant-90g"
+    },
+    {
+      "date": "2026-11-09",
+      "itemId": "karat-instant",
+      "store": "Netto",
+      "product": "Karat Instant",
+      "pack": "90 g",
+      "price": 39.95,
+      "unitPrice": 443.89,
+      "offer": false,
+      "validUntil": "",
+      "confirmed": true,
+      "sourceUrl": "https://goma.gg/dagligvarer/minkoebmand-8711000363225/min-koebmand/karat-instant"
     }
   ]
 }
