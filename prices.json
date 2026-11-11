@@ -16020,6 +16020,84 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://prej.dk/produkt/karat-instant-51445"
+    },
+    {
+      "date": "2026-11-11",
+      "itemId": "ground-beef",
+      "store": "Netto Slangerup",
+      "product": "Netto hakket oksekød 4-7%",
+      "pack": "350 g",
+      "price": 39.0,
+      "unitPrice": 111.43,
+      "offer": true,
+      "validUntil": "2026-11-13",
+      "confirmed": true,
+      "sourceUrl": "https://www.tilbudsaviseronline.dk/tilbud/hakket-oksekod/netto"
+    },
+    {
+      "date": "2026-11-11",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "HK. Oksekød 15-18%",
+      "pack": "400 g",
+      "price": 37.95,
+      "unitPrice": 94.88,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://shop.rema1000.dk/varer/kod-fisk-fjerkrae/hakket-kod/400176-hk-oksekoed-15-18"
+    },
+    {
+      "date": "2026-11-11",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "HK. Oksekød 4-7%",
+      "pack": "350 g",
+      "price": 39.0,
+      "unitPrice": 111.43,
+      "offer": true,
+      "validUntil": "2026-11-14",
+      "confirmed": true,
+      "sourceUrl": "https://shop.rema1000.dk/varer/kod-fisk-fjerkrae/hakket-kod/400167-hk-oksekoed-4-7"
+    },
+    {
+      "date": "2026-11-11",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "HK. Oksekød 8-12%",
+      "pack": "400 g",
+      "price": 39.95,
+      "unitPrice": 99.88,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://shop.rema1000.dk/varer/kod-fisk-fjerkrae/hakket-kod/400171-hk-oksekoed-8-12"
+    },
+    {
+      "date": "2026-11-11",
+      "itemId": "ground-beef",
+      "store": "SuperBrugsen Slangerup",
+      "product": "Coop hakket oksekød 4-7%",
+      "pack": "400 g",
+      "price": 49.0,
+      "unitPrice": 122.5,
+      "offer": true,
+      "validUntil": "2026-11-12",
+      "confirmed": true,
+      "sourceUrl": "https://goma.gg/dagligvarer/superbrugsen-5715348110667/superbrugsen/coop-hakket-oksekoed-4-7-400-g"
+    },
+    {
+      "date": "2026-11-11",
+      "itemId": "ground-beef",
+      "store": "SuperBrugsen Slangerup",
+      "product": "Coop hakket oksekød 5-8%",
+      "pack": "700 g",
+      "price": 79.0,
+      "unitPrice": 112.86,
+      "offer": true,
+      "validUntil": "2026-11-30",
+      "confirmed": true,
+      "sourceUrl": "https://www.tilbudsugen.dk/offer/superbrugsen%20oksek%C3%B8d"
     }
   ]
 }
