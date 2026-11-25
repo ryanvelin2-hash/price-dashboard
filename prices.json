@@ -29139,6 +29139,97 @@
       "validUntil": null,
       "confirmed": true,
       "sourceUrl": "https://goma.gg/dagligvarer/minkoebmand-8711000363225/min-koebmand/karat-instant"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "Netto Slangerup",
+      "product": "Netto hakket oksekød 14-18%",
+      "pack": "400 g",
+      "price": 30.0,
+      "unitPrice": 75.0,
+      "offer": true,
+      "validUntil": "2026-11-27",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/Netto?publication=Bswgx2rE&offer=F3Ph-NctMSjlTt9pxDN9s"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "Netto Slangerup",
+      "product": "Netto hakket oksekød 8-12%",
+      "pack": "400 g",
+      "price": 39.95,
+      "unitPrice": 99.88,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://goma.gg/varer/dp-netto-hk-okse-8-12-400g-fp-23141"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "Netto Slangerup",
+      "product": "Netto hakket oksekød 4-7%",
+      "pack": "350 g",
+      "price": 39.95,
+      "unitPrice": 114.14,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://goma.gg/varer/dp-netto-hk-oksekoed-4-7-350g-fp-23140"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "HK. Oksekød 15-18%",
+      "pack": "400 g",
+      "price": 29.0,
+      "unitPrice": 72.5,
+      "offer": true,
+      "validUntil": "2026-11-28",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/REMA-1000?publication=N5G6t9tv&offer=7b82kSEsnJg-Ka9dJqUev"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "HK. Oksekød 8-12%",
+      "pack": "400 g",
+      "price": 39.95,
+      "unitPrice": 99.88,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://shop.rema1000.dk/varer/kod-fisk-fjerkrae/hakket-kod/400171-hk-oksekoed-8-12"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "Rema 1000 Ølstykke",
+      "product": "HK. Oksekød 4-7%",
+      "pack": "350 g",
+      "price": 39.95,
+      "unitPrice": 114.14,
+      "offer": false,
+      "validUntil": null,
+      "confirmed": true,
+      "sourceUrl": "https://shop.rema1000.dk/varer/kod-fisk-fjerkrae/hakket-kod/400167-hk-oksekoed-4-7"
+    },
+    {
+      "date": "2026-11-25",
+      "itemId": "ground-beef",
+      "store": "SuperBrugsen Slangerup",
+      "product": "Coop hakket oksekød 5-8%",
+      "pack": "700 g",
+      "price": 79.0,
+      "unitPrice": 112.86,
+      "offer": true,
+      "validUntil": "2026-11-30",
+      "confirmed": true,
+      "sourceUrl": "https://etilbudsavis.dk/SuperBrugsen?publication=7CzWLQlK&offer=luIF1fgugKmHpzgY-R2kv"
     }
   ]
 }
